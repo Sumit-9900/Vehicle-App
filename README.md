@@ -21,7 +21,7 @@ A Flutter app to display a list of vehicles based on their fuel efficiency and a
 ## 🚀 Getting Started
 1. Clone the repo:
    ```sh
-   git clone https://github.com/yourusername/vehicle-app.git
+   git clone https://github.com/Sumit-9900/Vehicle-App.git
 
 2. Install dependencies:
     ```sh
